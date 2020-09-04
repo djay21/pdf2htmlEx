@@ -18,6 +18,6 @@ would produce a single HTML file `test.html` in `~/pdf` directory.
     pdf2htmlEX -h 
     pdf2htmlEX --zoom 1.3 test.pdf
 
-For detail instruciton on how to run `pdf2htmlEX`, please read the wiki
+For detail instruciton on how to run `pdf2htmlEX`, please read the wiki.
 
 https://github.com/coolwanglu/pdf2htmlEX/wiki/Quick-Start
